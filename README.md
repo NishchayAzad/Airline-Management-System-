@@ -40,7 +40,7 @@ To maintain data security, the system includes basic authentication mechanisms, 
   
 ## 📂 Project Structure
 
-
+```
 .
 ├── main.py                 # Entry point of application
 ├── database.py             # Database connection and queries
@@ -50,6 +50,9 @@ To maintain data security, the system includes basic authentication mechanisms, 
 ├── air.png
 ├── airport.png
 └── README.md
+```
+
+---
 
 ## ▶️ How to Run
 
