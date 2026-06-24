@@ -1,6 +1,6 @@
 # ✈️ Airline Management System
 
-**Developed by: **Nishchay Azad
+** Developed by:** Nishchay Azad
 B.Tech Computer Science, Delhi Technological University
 
 ---
@@ -17,11 +17,11 @@ To maintain data security, the system includes basic authentication mechanisms, 
 
 ## 🚀 Features
 
-*Passenger data management system
-*Flight booking and record handling
-*Filter flights based on departure and destination
-*Secure access using authentication (password protection)
-*Command-line interface for interaction
+* Passenger data management system
+* Flight booking and record handling
+* Filter flights based on departure and destination
+* Secure access using authentication (password protection)
+* Command-line interface for interaction
 
 ---
 
